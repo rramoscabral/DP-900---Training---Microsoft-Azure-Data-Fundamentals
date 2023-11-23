@@ -1,0 +1,13 @@
+theme: jekyll-theme-slate
+title: DP-900 - Training - Microsoft Azure Data Fundamentals
+description: Companion material and resources for the course 'Microsoft Azure Data Fundamentals' delivery by Ricardo Cabral 
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - .github/
+include:
+  - README.md
+author: Ricardo Cabral
+twitter_username: rramoscabral
+github_username:  rramoscabral
