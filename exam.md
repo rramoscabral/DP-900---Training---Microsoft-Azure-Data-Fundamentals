@@ -35,7 +35,7 @@
 
 ### **About the exam**
 
-**Microsoft Certified: Power Platform Developer Associate**
+**Microsoft Certified: Microsoft Azure Data Fundamental**
 
 The certification consists on **ONE** exam.
 
@@ -43,7 +43,7 @@ The certification consists on **ONE** exam.
 
 <br/>
 
-You can explore steps to get certified as an **Power Platform Developer Associate** and review the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+<!-- You can explore steps to get certified as an **####** and review the resources available to help you prepare [**here**](####) -->
 
 The Microsoft Training and Certifications Guide is available [**here**](https://aka.ms/TrainingCertDeck).
 
