@@ -22,11 +22,11 @@ DP-900 is one day course.
 The Octuber July 2023 course outline is available [here](./outline-2023-october.md)
 
 
-
 The Official course outline is available [here](https://docs.microsoft.com/en-us/learn/certifications/courses/dp-900t00).
 
 The exam skills measured is available [here](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900).
 
+<!-- Learning and Training Guide for ##### [here](#####) -->
 
 The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoster).
 
