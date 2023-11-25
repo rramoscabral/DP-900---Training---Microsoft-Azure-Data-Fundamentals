@@ -23,7 +23,6 @@ Students will learn
     - [Official practice test](https://www.measureup.com/microsoft-practice-test-dp-900-microsoft-azure-data-fundamentals.html#u5)
     - [Free Practice Assessments](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/practice/assessment?assessment-type=practice&assessmentId=24)
  
-- 
 
 - [Hands-on Labs](./hands-on-labs.md)
 
@@ -88,8 +87,6 @@ Students will learn
 <br/>
 
 **You can follow me at:**
-
-<br/>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rrcabral">
