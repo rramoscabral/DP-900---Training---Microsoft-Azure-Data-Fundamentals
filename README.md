@@ -55,7 +55,6 @@ Students will learn
 
 <br/>
 
-
 <a id="othergeneraltraining" />
 
 # Companion Material and Resources for other trainings delivery
