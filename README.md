@@ -8,10 +8,18 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 
 The Microsoft Azure Data Fundamentals helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes.
 
+Students will learn 
+  - Core data concepts such as relational, non-relational, big data, and analytics, and build their foundational knowledge of cloud data services within Microsoft Azure. 
+  - Explore fundamental relational data concepts and relational database services in Azure. 
+  - Explore Azure storage for non-relational data and the fundamentals of Azure Cosmos DB.
+  - Introduction about large-scale data warehousing, real-time analytics, and data visualization.
+
+
 - [DP-900 Training Course](./about-the-course.md)
-    - The Octoberr 2023 course outline is available [here](./outline-2023-october.md)
+    - The October 2023 course outline is available [here](./outline-2023-october.md)
 
 - [Exam certification](./exam.md)
+    - [Skills measured as of November 2, 2023](./exam-skills-measured-20231102.md)
     - [Official practice test](https://www.measureup.com/microsoft-practice-test-dp-900-microsoft-azure-data-fundamentals.html#u5)
     - [Free Practice Assessments](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/practice/assessment?assessment-type=practice&assessmentId=24)
  
@@ -19,19 +27,19 @@ The Microsoft Azure Data Fundamentals helps organizations optimize their operati
 
 - [Hands-on Labs](./hands-on-labs.md)
 
-- [Software List for Hands-on Labs](./Lab-Setup.md)
+<!-- - [Software List for Hands-on Labs](./Lab-Setup.md) -->
 
-- [Tools](./tools.md)
+<!-- [Tools](./tools.md) -->
 
 - [Samples](./samples.md)
 
-- [Licensing & Pricing](./licensing-pricing.md)
+<!-- - [Licensing & Pricing](./licensing-pricing.md) --> 
 
 - [Resources](./resources.md)
 
 - [User groups](./usergroups.md)
 
-- [Microsoft customer stories](./microsoft-customer-stories.md)
+<!-- - [Microsoft customer stories](./microsoft-customer-stories.md) -->
 
 
 <br>
@@ -65,8 +73,9 @@ The Microsoft Azure Data Fundamentals helps organizations optimize their operati
 - [MS-500: Microsoft 365 Security Administration](https://github.com/rramoscabral/MS-500---Training---Microsoft-365-Security-Administration)
 - [MS-700: Managing Microsoft Teams](https://ms-700.rramoscabral.com/)
 - [MS-720: Microsoft Teams Voice Engineer](https://ms-720.rramoscabral.com/)
-- [PL-100T00: Microsoft Power Platform App Maker](https://pl-100.rramoscabral.com)
-- [PL-200T00: Microsoft Power Platform Functional Consultant](https://pl-200.rramoscabral.com)
+- [PL-100: Microsoft Power Platform App Maker](https://pl-100.rramoscabral.com)
+- [PL-200: Microsoft Power Platform Functional Consultant](https://pl-200.rramoscabral.com)
+- [PL-400: Microsoft Power Platform Developer](https://pl-400.rramoscabral.com)
 - [Microsoft Windows PowerShell Training](https://github.com/rramoscabral/MSPowerShell---Training---Microsoft-Windows-PowerShell)
 - [SharePoint Online Power User](http://msspopoweruser.rramoscabral.com/)
 
