@@ -11,7 +11,8 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 <br>
 
-* [Azure SQL](#azure_sql)
+* [Azure](#azure)
+* [Azure Data](#azure_data)
 * [Microsoft Power BI](#power_bi)
 * [Microsoft Learn](#mslearn)
 * [Ebooks](#ebooks)
@@ -22,14 +23,48 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 ---
 
-<a id="azure_sql" />
+<a id="azure" />
 
 <br/>
 
 
-**Microsoft Power BI**
+**Azure**
+
+- [Azure free account](https://azure.microsoft.com/en-us/free/)
+- [Azure free account for students](https://azure.microsoft.com/en-us/free/students/)
+- [Azure Charts](https://azurecharts.com/)
+- [Azure solutions](https://azure.microsoft.com/en-us/solutions/)
+- [Azure documentation](https://learn.microsoft.com/en-us/azure/)
+
+
+
+<br/>
+
+[**Back to top**](#top) | [**Back to main**](README.md)
+
+<br/>
+
+
+---
+
+<a id="azure_data" />
+
+<br/>
+
+
+**Azure Data**
 
 - [Azure SQL Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog)
+- [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction)
+- [Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview)
+- [Azure Synapse](https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is)
+- [Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks)
+- [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/introduction)
+- [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
+- [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
+- [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio)
+
 
 
 <br/>
