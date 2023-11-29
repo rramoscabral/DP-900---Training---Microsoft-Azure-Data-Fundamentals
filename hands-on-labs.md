@@ -25,6 +25,9 @@ Oficial DP-900 Hands-on LabsM1Q299
     | :---: | --- | --- | 
     | `Arabic Saudi Arabia (ar-SA)`      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ar-sa/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ar-sa) | 
     | `German from Germany (de-DE))`     | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.de-de/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.de-de) | 
+
+
+
     | `Spanish from Spain (es-ES)`       | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.es-es/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.es-es) | 
     | `	French from France (fr-FR)`      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.fr-fr/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.fr-fr) |
     | `Indonesian from Indonesia (id-ID)` | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.id-id/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.id-id) |
