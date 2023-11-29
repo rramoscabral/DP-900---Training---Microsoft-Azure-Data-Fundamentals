@@ -21,7 +21,7 @@ Oficial DP-900 Hands-on LabsM1Q299
 * ***DP-900*** official course lab instructions is available in several languages:
 
 
-    |  | || 
+    | Language | || 
     | :---: | --- | --- | 
     | `Arabic Saudi Arabia (ar-SA)`           | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ar-sa/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ar-sa) | 
     | `German from Germany (de-DE))`  | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.de-de/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.de-de) | 
