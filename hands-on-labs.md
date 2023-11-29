@@ -19,24 +19,20 @@
 Oficial DP-900 Hands-on LabsM1Q299
 
 * ***DP-900*** official course lab instructions is available in several languages:
-
-
+    
     | Language | View online instructions | Download all files| 
     | :---: | --- | --- | 
-    | `Arabic Saudi Arabia (ar-SA)`      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ar-sa/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ar-sa) | 
-    | `German from Germany (de-DE))`     | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.de-de/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.de-de) | 
-
-
-
-    | `Spanish from Spain (es-ES)`       | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.es-es/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.es-es) | 
-    | `	French from France (fr-FR)`      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.fr-fr/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.fr-fr) |
-    | `Indonesian from Indonesia (id-ID)` | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.id-id/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.id-id) |
-    | `Italian from Italy (it-IT)) `      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.it-it/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.it-it) |
-    | `	Japanese from Japan (ja-JP)`      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ja-jp/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ja-jp) |
-    | `Portuguese from Brazil (pt-BR)`    | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.pt-br/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.pt-br) |
-    | `	Russian from Russia (ru-RU)`      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ru-ru/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ru-ru) | 
-    | `Chinese simplified from China (zh-CN)` | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.zh-cn/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.zh-cn) |
-    | `Chinese tradicional from China (zh-TW)` | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.zh-tw/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.zh-tw) | 
+    | Arabic Saudi Arabia (ar-SA)    | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ar-sa/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ar-sa) | 
+    | German from Germany (de-DE)     | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.de-de/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.de-de) | 
+    | Spanish from Spain (es-ES)       | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.es-es/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.es-es) | 
+    | French from France (fr-FR)      | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.fr-fr/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.fr-fr) |
+    | Indonesian from Indonesia (id-ID) | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.id-id/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.id-id) |
+    | Italian from Italy (it-IT)     | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.it-it/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.it-it) |
+    | Japanese from Japan (ja-JP)     | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ja-jp/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ja-jp) |
+    | Portuguese from Brazil (pt-BR)    | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.pt-br/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.pt-br) |
+    | Russian from Russia (ru-RU)     | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.ru-ru/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ru-ru) | 
+    | Chinese simplified from China (zh-CN) | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.zh-cn/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.zh-cn) |
+    | Chinese tradicional from China (zh-TW) | [**Online instructions**](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals.zh-tw/) | [**All files**](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.zh-tw) | 
 
 
 
