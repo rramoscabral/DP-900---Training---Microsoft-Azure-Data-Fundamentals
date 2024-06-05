@@ -20,7 +20,7 @@ Students will learn
 
 - [Exam certification](./exam.md)
     - [Skills measured as of November 2, 2023](./exam-skills-measured-20231102.md)
-    - [Official practice test](https://www.measureup.com/microsoft-practice-test-dp-900-microsoft-azure-data-fundamentals.html#u5)
+    - [Official practice test]([https://www.measureup.com/microsoft-practice-test-dp-900-microsoft-azure-data-fundamentals.html#u5](https://www.pass4success.com/microsoft/exam/dp-900))
     - [Free Practice Assessments](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/practice/assessment?assessment-type=practice&assessmentId=24)
  
 
